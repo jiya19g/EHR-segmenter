@@ -1,4 +1,4 @@
-# EHR Segmentation System (MERN)
+# EHR Segmentation System
 
 A modern web application for processing Electronic Health Records (EHR) PDFs, segmenting them into logical groups, and exporting structured CSVs. Built with a React frontend and a Node.js/Python backend.
 
