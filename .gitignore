@@ -1,0 +1,47 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Node.js dependencies
+**/node_modules/
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
+
+# Ignore client build and internal .git
+client/.git/
+client/build/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build/artifact directories
+dist/
+build/
+*.egg-info/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Misc
+.pnp/
+.pnp.js

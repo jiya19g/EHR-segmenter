@@ -1,0 +1,7 @@
+pdfplumber
+pandas
+fuzzywuzzy
+python-Levenshtein
+nltk
+spacy
+python-dateutil

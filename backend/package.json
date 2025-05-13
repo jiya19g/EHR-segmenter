@@ -1,0 +1,20 @@
+{
+  "name": "ehr-segmenter",
+  "version": "1.0.0",
+  "description": "EHR Segmentation Tool with MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "cd client && npm start",
+    "dev": "concurrently \"npm run start\" \"npm run client\"",
+    "install-all": "npm install && cd client && npm install"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.0"
+  }
+} 
