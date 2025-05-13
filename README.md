@@ -13,6 +13,8 @@ A modern web application for processing Electronic Health Records (EHR) PDFs, se
 - **CSV export** of structured, review-ready data
 - **Handles edge cases**: multi-page reports, missing metadata, interspersed records
 
+![Upload Screen](ui-upload-screenshot.png)
+
 ---
 
 ## Project Structure
